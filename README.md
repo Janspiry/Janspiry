@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on computer vision
 - 🌱 I’m currently learning tensorflow
 - 😄 Fun fact: learn more knowledge today
-- ⚡ More about me: ...
-![](https://github-readme-stats.vercel.app/api?username=Janspiry)
+- ⚡ More about me: https://janspiry.github.io/
+
+![](https://github-readme-stats.vercel.app/api?username=Janspiry&theme=dark)
