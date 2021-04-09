@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/Janspiry/Janspiry/blob/master/output.gif" alt="Here is a little bit about me!">
+<img src="https://github.com/Janspiry/Janspiry/blob/main/output.gif" alt="Here is a little bit about me!">
 
 - 🔭 I’m currently working on Computer Vision
 - 🚀 I use daily:
