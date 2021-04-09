@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github.com/Janspiry/Janspiry/blob/master/output.gif" alt="Here is a little bit about me!">
+
 - 🔭 I’m currently working on Computer Vision
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
