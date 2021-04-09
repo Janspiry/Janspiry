@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on computer vision
+- 🔭 I’m currently working on Computer Vision
 - 😄 Fun fact: get a funny knowledge today
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
@@ -19,12 +19,14 @@ Here are some ideas to get you started:
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   
-- 🌱 Learning all about:![Pytorch](https://img.shields.io/badge/-Pytorch-007ACC?style=plastic&logo=pytorch) 
+- 🌱 Learning about:![Pytorch](https://img.shields.io/badge/-Pytorch-007ACC?style=plastic&logo=pytorch) 
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-007ACC?style=plastic&logo=tensorflow) 
   ![Numpy](https://img.shields.io/badge/-Numpy-007ACC?style=plastic&logo=numpy) 
   ![Pandas](https://img.shields.io/badge/-Pandas-007ACC?style=plastic&logo=pandas) 
   
-- ⚡ More about me: https://janspiry.github.io/
-- 
-![](https://github-readme-stats.vercel.app/api?username=Janspiry&theme=dark)
+- ⚡ More about me: 💬[Blog](https://blog.csdn.net/jianglw1), 📝[Website](https://janspiry.github.io/) 
+
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=Janspiry&show_icons=true&theme=gotham" alt="Janspiry" />
+<img align="left" alt="GIF" src="https://github.com/Janspiry/Janspiry/master/code.gif?raw=true" width="320" height="192" />
 
