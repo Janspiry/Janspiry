@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - ⚡ More about me: 💬[`Blog`](https://blog.csdn.net/jianglw1), 📝[`Website`](https://janspiry.github.io/) 
 
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Janspiry&show_icons=true&theme=gotham" alt="Janspiry" />
-<img align="left" alt="GIF" src="https://github.com/Janspiry/Janspiry/blob/main/code.gif?raw=true" width="320" height="192" />
+<!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=Janspiry&show_icons=true&theme=gotham" alt="Janspiry" /> -->
+<!-- <img align="left" alt="GIF" src="https://github.com/Janspiry/Janspiry/blob/main/code.gif?raw=true" width="320" height="192" /> -->
 
