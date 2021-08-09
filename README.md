@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://github.com/Janspiry/Janspiry/blob/main/output.gif" alt="Here is a little bit about me!">
 
-- 🔭 I’m currently working on Computer Vision
+- 🔭 I’m currently working on `computer vision`
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   ![Numpy](https://img.shields.io/badge/-Numpy-007ACC?style=plastic&logo=numpy) 
   ![Pandas](https://img.shields.io/badge/-Pandas-007ACC?style=plastic&logo=pandas) 
   
-- ⚡ More about me: 💬[Blog](https://blog.csdn.net/jianglw1), 📝[Website](https://janspiry.github.io/) 
+- ⚡ More about me: 💬[`Blog`](https://blog.csdn.net/jianglw1), 📝[`Website`](https://janspiry.github.io/) 
 
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Janspiry&show_icons=true&theme=gotham" alt="Janspiry" />
