@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   ![Numpy](https://img.shields.io/badge/-Numpy-007ACC?style=plastic&logo=numpy) 
   ![Pandas](https://img.shields.io/badge/-Pandas-007ACC?style=plastic&logo=pandas) 
   
-- ⚡ More about me: 💬[`Blog`](https://blog.csdn.net/jianglw1), 📝[`Website`](https://janspiry.github.io/) 
+- ⚡ More about me: 📝[`Website`](https://janspiry.github.io/), 💬[`Blog`](https://blog.csdn.net/jianglw1)
 
 
 <!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=Janspiry&show_icons=true&theme=gotham" alt="Janspiry" /> -->
