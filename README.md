@@ -21,9 +21,9 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   
 - 🌱 Learning about:![Pytorch](https://img.shields.io/badge/-Pytorch-007ACC?style=plastic&logo=pytorch) 
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-007ACC?style=plastic&logo=tensorflow) 
-  ![Numpy](https://img.shields.io/badge/-Numpy-007ACC?style=plastic&logo=numpy) 
-  ![Pandas](https://img.shields.io/badge/-Pandas-007ACC?style=plastic&logo=pandas) 
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-8fcfd1?style=plastic&logo=tensorflow) 
+  ![Numpy](https://img.shields.io/badge/-Numpy-eb2704?style=plastic&logo=numpy) 
+  ![Pandas](https://img.shields.io/badge/-Pandas-5e7ee2?style=plastic&logo=pandas) 
   
 - ⚡ More about me: 📝[`Website`](https://janspiry.github.io/), 💬[`Blog`](https://blog.csdn.net/jianglw1)
 
