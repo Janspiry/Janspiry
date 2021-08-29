@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on `Computer Vision & Image Generation`
 - 🚀 I use daily:
-  ![Git](https://img.shields.io/badge/-Git-8dd35f?style=plastic&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-blasck?style=plastic&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![Shell](https://img.shields.io/badge/-Shell-8fcfd1?style=plastic&logo=Shell)
 - 🌱 Learning about:
   ![Pytorch](https://img.shields.io/badge/-Pytorch-007ACC?style=plastic&logo=pytorch) 
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-8fcfd1?style=plastic&logo=tensorflow) 
