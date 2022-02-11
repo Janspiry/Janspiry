@@ -1,32 +1,50 @@
-### Hi there 👋
-
-<!--
-**Janspiry/Janspiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+<!-- ### Hi there 👋 -->
 <!-- <img src="https://github.com/Janspiry/Janspiry/blob/main/output.gif" alt="Here is a little bit about me!"> -->
 
-- 🔭 I’m currently working on `Computer Vision & Image Generation`
-- 🚀 I use daily:
-  ![Git](https://img.shields.io/badge/-Git-blasck?style=plastic&logo=git)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![Shell](https://img.shields.io/badge/-Shell-8fcfd1?style=plastic&logo=Shell)
-- 🌱 Learning about:
-  ![Pytorch](https://img.shields.io/badge/-Pytorch-007ACC?style=plastic&logo=pytorch) 
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-8fcfd1?style=plastic&logo=tensorflow) 
-  ![Numpy](https://img.shields.io/badge/-Numpy-eb2704?style=plastic&logo=numpy) 
-  ![Pandas](https://img.shields.io/badge/-Pandas-5e7ee2?style=plastic&logo=pandas) 
+<h2 align="center"> 👨‍💻 Janspiry</h2>
+<p align="center">
+  <samp>
+    My research interest focus on theory and applications of Deep Generative Models (GANs) in Computer Vision, including: Image Inpainting, Image Super-Resolution and Image Generation With Style Control.
+  </samp>
   
-- ⚡ More about me: 📝[`Website`](https://janspiry.github.io/), 💬[`Blog`](https://blog.csdn.net/jianglw1)
+</p>
+<h2 align="center">  🚀 Use daily</h2>
+<p align="center">
+    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a>
+    <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"></a>
+    <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white"></a>
+    <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
 
-<img align="left" alt="GIF" src="https://github.com/Janspiry/Janspiry/blob/main/code.gif?raw=true" width="320" height="192" />
+ 
+</p>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Janspiry&show_icons=true&theme=gotham" alt="Janspiry" />
+<!-- <hr> -->
+<h2 align="center"> 🌱 Learning about</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-blasck?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/-Pytorch-007ACC?style=for-the-badge&logo=pytorch" />
+  <img src="https://img.shields.io/badge/-Numpy-eb2704?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/-Tensorflow-8fcfd1?style=for-the-badge&logo=tensorflow" />
+  <img src="https://img.shields.io/badge/-Pandas-5e7ee2?style=for-the-badge&logo=pandas" />
+</p>
+<!-- <p align="center">TailwindCSS, Python, Docker, Kubernetes, Rancher, TravisCI, Git, Github, Bitbucket, Apache, Nginx, Vagrant, Ansible, Jenkins, Azure.</p>
+ -->
 
+<!-- <hr> -->
+<h2  align="center">⚡ More about me:</h2>
+<p align="center">
+  <a target="_blank"href="https://janspiry.github.io/"><img src="https://img.shields.io/badge/website-%230077B5.svg?&style=for-the-badge&logo=website&logoColor=white" /></a>
+   <a target="_blank"href="https://blog.csdn.net/jianglw1"><img src="https://img.shields.io/badge/csdn-%23D14836.svg?&style=for-the-badge&logo=csdn&logoColor=white" /></a>
+</p>
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Janspiry&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janspiry&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
