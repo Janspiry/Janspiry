@@ -13,8 +13,9 @@ My research interests focus on theory and applications of Deep Generative Models
 - Image Generation With Style Control
 
 <a href="https://github.com/Janspiry?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
-<a href="https://github.com/Janspiry" target="_blank"><img alt="Janspiry" src="https://badges.pufler.dev/visits/Janspiry/Janspiry?logo=GitHub&label=visits&color=success&logoColor=white&style=flat"></a>
-<a href="https://github.com/Janspiry/Janspiry" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Janspiry/Janspiry?label=profile%20updated&style=flat"></a>
+<img alt="Janspiry" src="https://badges.pufler.dev/visits/Janspiry/Janspiry?logo=GitHub&label=visits&style=flat&color=1081c1">
+<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Janspiry/Janspiry?label=profile%20updated&style=flat&color=cfa81c">
+
 
 #
 <details>
@@ -22,7 +23,7 @@ My research interests focus on theory and applications of Deep Generative Models
    Some of my Github Public Stats :octocat:
 </summary>
 <p>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Janspiry&theme=tokyonight&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Janspiry&theme=tokyonight&show_icons=true&hide=issues">
 </p>
 </details>
 
