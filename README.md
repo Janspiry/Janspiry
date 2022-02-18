@@ -21,34 +21,25 @@ I’m currently working on Computer Vision, including:
    Some of my Github Public Stats :octocat:
 </summary><br>
 <p>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Janspiry&theme=tokyonight&show_icons=true&hide=issues">
-</p>
-
-   #
-</details>
-
-<details>
-<summary>
-   Programming Languages and Technologies 💻
-</summary>
-<br>
-<p>
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Janspiry&theme=tokyonight&show_icons=true&hide=issues" align="right">
+   <div align="left">
 <!--     <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat&logo=PowerShell&logoColor=white"></a> -->
-   <img src="https://img.shields.io/badge/-Code-000000?style=flat&logo=Plex&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Code-000000?style=flat&logo=Plex&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=Mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=LaTeX&logoColor=white" />
-<br>
+<br><br><br>
 <!--   <img src="https://img.shields.io/badge/-Git-blasck?style=flat&logo=git" /> -->
 <!--   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code" /> -->
-  <img src="https://img.shields.io/badge/-Tools-000000?style=flat&logo=Plex&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tools-000000?style=flat&logo=Plex&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/-Pytorch-007ACC?style=flat&logo=pytorch" />
   <img src="https://img.shields.io/badge/-Numpy-eb2704?style=flat&logo=numpy" />
   <img src="https://img.shields.io/badge/-Tensorflow-8fcfd1?style=flat&logo=tensorflow" />
   <img src="https://img.shields.io/badge/-Pandas-5e7ee2?style=flat&logo=pandas" />
-</p> 
+</div> 
+</p>
 
    #
 </details>
