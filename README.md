@@ -19,10 +19,12 @@ I’m currently working on Computer Vision, including:
 <details>
 <summary>
    Some of my Github Public Stats :octocat:
-</summary>
+</summary><br>
 <p>
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Janspiry&theme=tokyonight&show_icons=true&hide=issues">
 </p>
+
+   #
 </details>
 
 <details>
@@ -46,7 +48,9 @@ I’m currently working on Computer Vision, including:
   <img src="https://img.shields.io/badge/-Numpy-eb2704?style=flat&logo=numpy" />
   <img src="https://img.shields.io/badge/-Tensorflow-8fcfd1?style=flat&logo=tensorflow" />
   <img src="https://img.shields.io/badge/-Pandas-5e7ee2?style=flat&logo=pandas" />
-</p>
+</p> 
+
+   #
 </details>
 
 
@@ -59,6 +63,6 @@ I’m currently working on Computer Vision, including:
 [![cnblogs Badge](https://img.shields.io/badge/-CnBlogs-bd4087?style=flat&logoColor=white)](https://www.cnblogs.com/Janspiry)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode-cn.com/u/janspiry)
 [![Codeforces Badge](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](http://codeforces.com/profile/Janspiry)
-
+#
 </details>
 
