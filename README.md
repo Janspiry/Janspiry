@@ -35,7 +35,7 @@ I’m currently working on Computer Vision, including:
 [![csdn Badge](https://img.shields.io/badge/-CSDN-f54e10?style=flat&logoColor=white)](https://blog.csdn.net/jianglw1)
 [![cnblogs Badge](https://img.shields.io/badge/-CnBlogs-bd4087?style=flat&logoColor=white)](https://www.cnblogs.com/Janspiry)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white)](https://leetcode-cn.com/u/janspiry)
-[![Codeforces Badge](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](http://codeforces.com/profile/Janspiry)
+<!-- [![Codeforces Badge](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white)](http://codeforces.com/profile/Janspiry) -->
 #
 </details>
 
