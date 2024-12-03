@@ -5,12 +5,9 @@
 
 <a href="https://github.com/Janspiry/"><img alt="GIF" src="https://github.com/Janspiry/Janspiry/blob/main/code.gif?raw=true" align="right" height="170" /></a>
 
-I am a Graduate Student at Beihang University, pursuing a Masters in Computer Science.
-
 I’m currently working on Computer Vision, including: 
-- Image Restoration and Synthesis
-- Object Detection
-- Model Compression 
+- Image Synthesis
+- Efficient Computing
 
 <a href="https://github.com/Janspiry?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Janspiry.Janspiry)
